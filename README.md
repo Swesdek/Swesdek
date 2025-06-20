@@ -2,6 +2,6 @@ Hi! I'm Vlad
 
 Solving leetcode problems from time to time
 
-<img src="https://leetcard.jacoblin.cool/swesdek?theme=dark&font=Roboto&ext=contest&compact=true" width="400"/><br>
+[![LeetCode](https://img.shields.io/badge/LeetCode-swesdek-orange?logo=leetcode&logoColor=white)](https://leetcode.com/swesdek)<br>
 [![swesdek](https://www.codewars.com/users/Swesdek/badges/small)](https://www.codewars.com/users/swesdek)
 <br>
